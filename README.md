@@ -8,6 +8,7 @@ LeetCode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saniya116/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/saniya116/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/saniya116/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ LeetCode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/saniya116/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/saniya116/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -33,4 +35,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/saniya116/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/saniya116/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 <!---LeetCode Topics End-->
