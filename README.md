@@ -9,6 +9,7 @@ LeetCode
 | [0001-two-sum](https://github.com/saniya116/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/saniya116/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/saniya116/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/saniya116/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/saniya116/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/saniya116/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
