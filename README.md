@@ -46,6 +46,7 @@ LeetCode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/saniya116/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/saniya116/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/saniya116/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 <!---LeetCode Topics End-->
