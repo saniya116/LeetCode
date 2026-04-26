@@ -7,6 +7,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saniya116/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saniya116/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/saniya116/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/saniya116/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/saniya116/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -68,4 +69,20 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saniya116/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saniya116/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saniya116/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saniya116/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/saniya116/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
