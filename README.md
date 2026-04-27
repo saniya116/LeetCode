@@ -81,11 +81,13 @@ LeetCode
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/saniya116/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/saniya116/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/saniya116/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/saniya116/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/saniya116/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/saniya116/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Union-Find
@@ -102,4 +104,12 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/saniya116/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/saniya116/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/saniya116/LeetCode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
