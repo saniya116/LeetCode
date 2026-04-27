@@ -20,12 +20,14 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saniya116/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/saniya116/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/saniya116/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/saniya116/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/saniya116/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0012-integer-to-roman](https://github.com/saniya116/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/saniya116/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/saniya116/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/saniya116/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -56,6 +58,7 @@ LeetCode
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/saniya116/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/saniya116/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/saniya116/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/saniya116/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/saniya116/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/saniya116/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
