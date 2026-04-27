@@ -7,6 +7,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saniya116/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/saniya116/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/saniya116/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/saniya116/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/saniya116/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -25,6 +26,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/saniya116/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0014-longest-common-prefix](https://github.com/saniya116/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/saniya116/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/saniya116/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Backtracking
@@ -90,4 +92,8 @@ LeetCode
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/saniya116/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/saniya116/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/saniya116/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
